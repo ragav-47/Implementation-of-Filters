@@ -24,6 +24,10 @@ Perform sharpening on a image.
 ### Step 4:
 Display all the images with their respective filters.
 
+<br/>
+<br/>
+<br/>
+
 ## Program:
 ### Developed By   : VIJAYARAGAVAN ARR
 ### Register Number: 212220230059
@@ -142,6 +146,14 @@ ii) Using Weighted Averaging Filter
 
 ![2](https://user-images.githubusercontent.com/75235488/168803449-6a23cdbd-7050-4f69-8f0c-d9da28fcba10.png)
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 iii) Using Gaussian Filter
 
@@ -158,6 +170,11 @@ i) Using Laplacian Kernal
 
 ![5](https://user-images.githubusercontent.com/75235488/168803506-56181e12-7725-476c-a186-69c9f3223a42.png)
 
+<br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/>
 
 ii) Using Laplacian Operator
 
